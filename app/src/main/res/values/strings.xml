@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyLove</string>
+
+
+
+    <string name="double_click_exit">再次点击返回键切换到桌面</string>
+    <string name="blog">博客</string>
+    <string name="find">发现</string>
+    <string name="mine">个人</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
