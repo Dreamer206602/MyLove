@@ -1,1 +1,45 @@
-/build
+# built application files
+*.apk
+*.ap_
+*.o.d
+
+# files for the dex VM
+/app.iml
+*.dex
+
+# Java class files
+*.class
+
+# generated GUI files
+*/R.java
+
+# generated folder
+bin
+gen
+
+# local
+local.properties
+
+proguard_logs/
+
+# log files
+log*.txt
+
+# archives
+*.gz
+*.tar
+*.zip
+
+# eclipse
+*.metadata
+*.settings
+*.prefs
+
+#idea
+*.idea
+*.iml
+out/
+
+build/
+.gradle/
+
